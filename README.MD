@@ -2,4 +2,4 @@
 
 ##Color Flipper
 
-[Live Preview].()
+[Live Preview].(https://tambohq.github.io/Color-Flipper/)
